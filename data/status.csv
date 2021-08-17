@@ -1,138 +1,138 @@
-statusId,status,familyStatus
-1,Finished,4
-2,Disqualified,3
-3,Accident,1
-4,Collision,2
-5,Engine,6
-6,Gearbox,6
-7,Transmission,6
-8,Clutch,6
-9,Hydraulics,6
-10,Electrical,6
-11,+1 Lap,4
-12,+2 Laps,4
-13,+3 Laps,4
-14,+4 Laps,4
-15,+5 Laps,4
-16,+6 Laps,4
-17,+7 Laps,4
-18,+8 Laps,4
-19,+9 Laps,4
-20,Spun off,1
-21,Radiator,6
-22,Suspension,3
-23,Brakes,6
-24,Differential,6
-25,Overheating,6
-26,Mechanical,6
-27,Tyre,5
-28,Driver Seat,6
-29,Puncture,5
-30,Driveshaft,6
-31,Retired,3
-32,Fuel pressure,6
-33,Front wing,6
-34,Water pressure,6
-35,Refuelling,6
-36,Wheel,6
-37,Throttle,6
-38,Steering,6
-39,Technical,6
-40,Electronics,6
-41,Broken wing,6
-42,Heat shield fire,6
-43,Exhaust,6
-44,Oil leak,6
-45,+11 Laps,4
-46,Wheel rim,6
-47,Water leak,6
-48,Fuel pump,6
-49,Track rod,6
-50,+17 Laps,4
-51,Oil pressure,6
-128,+42 Laps,4
-53,+13 Laps,4
-54,Withdrew,3
-55,+12 Laps,4
-56,Engine fire,6
-129,Engine misfire,6
-58,+26 Laps,4
-59,Tyre puncture,5
-60,Out of fuel,6
-61,Wheel nut,6
-62,Not classified,6
-63,Pneumatics,6
-64,Handling,1
-65,Rear wing,6
-66,Fire,1
-67,Wheel bearing,6
-68,Physical,1
-69,Fuel system,6
-70,Oil line,6
-71,Fuel rig,6
-72,Launch control,6
-73,Injured,1
-74,Fuel,6
-75,Power loss,6
-76,Vibrations,6
-77,107% Rule,3
-78,Safety,3
-79,Drivetrain,6
-80,Ignition,6
-81,Did not qualify,3
-82,Injury,1
-83,Chassis,6
-84,Battery,6
-85,Stalled,6
-86,Halfshaft,6
-87,Crankshaft,6
-88,+10 Laps,4
-89,Safety concerns,3
-90,Not restarted,6
-91,Alternator,6
-92,Underweight,3
-93,Safety belt,6
-94,Oil pump,6
-95,Fuel leak,6
-96,Excluded,3
-97,Did not prequalify,3
-98,Injection,6
-99,Distributor,6
-100,Driver unwell,3
-101,Turbo,6
-102,CV joint,6
-103,Water pump,6
-104,Fatal accident,1
-105,Spark plugs,6
-106,Fuel pipe,6
-107,Eye injury,1
-108,Oil pipe,6
-109,Axle,6
-110,Water pipe,6
-111,+14 Laps,4
-112,+15 Laps,4
-113,+25 Laps,4
-114,+18 Laps,4
-115,+22 Laps,4
-116,+16 Laps,4
-117,+24 Laps,4
-118,+29 Laps,4
-119,+23 Laps,4
-120,+21 Laps,4
-121,Magneto,6
-122,+44 Laps,4
-123,+30 Laps,4
-124,+19 Laps,4
-125,+46 Laps,4
-126,Supercharger,6
-127,+20 Laps,4
-130,Collision damage,2
-131,Power Unit,6
-132,ERS,6
-133,+49 Laps,4
-134,+38 Laps,4
-135,Brake duct,6
-136,Seat,6
-137,Damage,1
-138,Debris,1
-139,Illness,3
+statusId,status,familyStatus,Completion Status
+1,Finished,4,1
+2,Disqualified,3,0
+3,Accident,1,0
+4,Collision,2,0
+5,Engine,6,0
+6,Gearbox,6,0
+7,Transmission,6,0
+8,Clutch,6,0
+9,Hydraulics,6,0
+10,Electrical,6,0
+11,+1 Lap,4,1
+12,+2 Laps,4,1
+13,+3 Laps,4,1
+14,+4 Laps,4,1
+15,+5 Laps,4,1
+16,+6 Laps,4,1
+17,+7 Laps,4,1
+18,+8 Laps,4,1
+19,+9 Laps,4,1
+20,Spun off,1,0
+21,Radiator,6,0
+22,Suspension,3,0
+23,Brakes,6,0
+24,Differential,6,0
+25,Overheating,6,0
+26,Mechanical,6,0
+27,Tyre,5,0
+28,Driver Seat,6,0
+29,Puncture,5,0
+30,Driveshaft,6,0
+31,Retired,3,0
+32,Fuel pressure,6,0
+33,Front wing,6,0
+34,Water pressure,6,0
+35,Refuelling,6,0
+36,Wheel,6,0
+37,Throttle,6,0
+38,Steering,6,0
+39,Technical,6,0
+40,Electronics,6,0
+41,Broken wing,6,0
+42,Heat shield fire,6,0
+43,Exhaust,6,0
+44,Oil leak,6,0
+45,+11 Laps,4,1
+46,Wheel rim,6,0
+47,Water leak,6,0
+48,Fuel pump,6,0
+49,Track rod,6,0
+50,+17 Laps,4,1
+51,Oil pressure,6,0
+128,+42 Laps,4,1
+53,+13 Laps,4,1
+54,Withdrew,3,0
+55,+12 Laps,4,1
+56,Engine fire,6,0
+129,Engine misfire,6,0
+58,+26 Laps,4,1
+59,Tyre puncture,5,0
+60,Out of fuel,6,0
+61,Wheel nut,6,0
+62,Not classified,6,0
+63,Pneumatics,6,0
+64,Handling,1,0
+65,Rear wing,6,0
+66,Fire,1,0
+67,Wheel bearing,6,0
+68,Physical,1,0
+69,Fuel system,6,0
+70,Oil line,6,0
+71,Fuel rig,6,0
+72,Launch control,6,0
+73,Injured,1,0
+74,Fuel,6,0
+75,Power loss,6,0
+76,Vibrations,6,0
+77,107% Rule,3,0
+78,Safety,3,0
+79,Drivetrain,6,0
+80,Ignition,6,0
+81,Did not qualify,3,0
+82,Injury,1,0
+83,Chassis,6,0
+84,Battery,6,0
+85,Stalled,6,0
+86,Halfshaft,6,0
+87,Crankshaft,6,0
+88,+10 Laps,4,1
+89,Safety concerns,3,0
+90,Not restarted,6,0
+91,Alternator,6,0
+92,Underweight,3,0
+93,Safety belt,6,0
+94,Oil pump,6,0
+95,Fuel leak,6,0
+96,Excluded,3,0
+97,Did not prequalify,3,0
+98,Injection,6,0
+99,Distributor,6,0
+100,Driver unwell,3,0
+101,Turbo,6,0
+102,CV joint,6,0
+103,Water pump,6,0
+104,Fatal accident,1,0
+105,Spark plugs,6,0
+106,Fuel pipe,6,0
+107,Eye injury,1,0
+108,Oil pipe,6,0
+109,Axle,6,0
+110,Water pipe,6,0
+111,+14 Laps,4,1
+112,+15 Laps,4,1
+113,+25 Laps,4,1
+114,+18 Laps,4,1
+115,+22 Laps,4,1
+116,+16 Laps,4,1
+117,+24 Laps,4,1
+118,+29 Laps,4,1
+119,+23 Laps,4,1
+120,+21 Laps,4,1
+121,Magneto,6,0
+122,+44 Laps,4,1
+123,+30 Laps,4,1
+124,+19 Laps,4,1
+125,+46 Laps,4,1
+126,Supercharger,6,0
+127,+20 Laps,4,1
+130,Collision damage,2,0
+131,Power Unit,6,0
+132,ERS,6,0
+133,+49 Laps,4,1
+134,+38 Laps,4,1
+135,Brake duct,6,0
+136,Seat,6,0
+137,Damage,1,0
+138,Debris,1,0
+139,Illness,3,0
