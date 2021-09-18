@@ -3,7 +3,7 @@
 ============================================================================</span>  
 
 **Team:** *Formula1 Crash Course*   
-**Project:** *Predicting Formula1 car crashes and which place car will finish* <span style="color:navy">============================================================================</span>
+**Project:** *Drive to Survive: Predicting Formula 1 Vehicle Failure* <span style="color:navy">============================================================================</span>
 
 **Cohort 24:** *Capstone Project for the Certificate of Data Science*  
 **Georgetown University:** *School of Continuing Studies*  
@@ -13,25 +13,28 @@
 ##### **Project Organization** -- The directory organization for our project follows the following structure:  
 *------------*
 
-
+    
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
     │
-    ├── data: data from raw to interim to processed. Includes wrangling transformations. 
+    ├── data: Data from raw to interim to processed. Includes wrangling transformations. 
     │   ├── interim        <- Intermediate data that has been transformed in some way, `[i.e. wrangling steps]`.
     │   ├── processed      <- The final data sets for modeling, `[i.e. what we deploy in our models]`.
     │   └── raw            <- The original data dump `[i.e. Kaggle, other government agencies]`.
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── Evaluation         <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── notebooks          <- Jupyter notebooks that wrangled and visaulized data. Naming  
-    │                         convention is a number (for ordering), a short `_` delimited description, 
-    │                         and steps in the pipeline process, e.g. 01_EDA__initial_wrangling.ipynb`.
+    ├── Data Wrangling     <- Jupyter notebooks that wrangled data.
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── Data Visualization <- Jupyter notebooks that visualized our data.
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
+    ├── Exploratory Data   <- Includes workbooks of all our EDA files.
+    │       Analysis         
+    │
+    ├── Reports            <- This contains our written paper with compiled analysis, as well as our presentation.
+    │ 
+    ├── Interactive Widget <- This contains all work done to produce an interactive widget.           
+    │                         Note that the final product is in 'FinalInteractiveWidget_FrontEnd_BaggingClassifier.ipynb'
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
