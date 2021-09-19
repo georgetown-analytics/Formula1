@@ -22,7 +22,7 @@ vehicle failure and uses these to make predictions.
     │
     ├── Data Wrangling     <- Jupyter notebooks that wrangled data.
     │
-    ├── Evaluation         <- Trained and serialized models, model predictions, or model summaries
+    ├── Evaluation         <- Trained and serialized models, model predictions, or model summaries.
     │
     ├── Exploratory Data   <- Includes workbooks of all our EDA files.
     │       Analysis         
@@ -43,7 +43,7 @@ vehicle failure and uses these to make predictions.
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+    │                         generated with `pip freeze > requirements.txt`.
     
 
     
